@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Data_Survey_Form/static/js/main.a517b087.chunk.js",
+    "main.js.map": "/Data_Survey_Form/static/js/main.a517b087.chunk.js.map",
+    "runtime-main.js": "/Data_Survey_Form/static/js/runtime-main.28ae149c.js",
+    "runtime-main.js.map": "/Data_Survey_Form/static/js/runtime-main.28ae149c.js.map",
+    "static/js/2.52292941.chunk.js": "/Data_Survey_Form/static/js/2.52292941.chunk.js",
+    "static/js/2.52292941.chunk.js.map": "/Data_Survey_Form/static/js/2.52292941.chunk.js.map",
+    "index.html": "/Data_Survey_Form/index.html",
+    "precache-manifest.8aeadd5d06d74d82bc058132c1343dd7.js": "/Data_Survey_Form/precache-manifest.8aeadd5d06d74d82bc058132c1343dd7.js",
+    "service-worker.js": "/Data_Survey_Form/service-worker.js",
+    "static/js/2.52292941.chunk.js.LICENSE.txt": "/Data_Survey_Form/static/js/2.52292941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ae149c.js",
+    "static/js/2.52292941.chunk.js",
+    "static/js/main.a517b087.chunk.js"
+  ]
+}
